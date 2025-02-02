@@ -1,4 +1,5 @@
 Car Buying and Selling Website
+
 This project is a web application for buying and selling cars. It allows users to log in as either a Customer or a Salesperson.
 
 Features
